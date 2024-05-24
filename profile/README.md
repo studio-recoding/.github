@@ -1,7 +1,5 @@
 ## 🗓️ 사용자와 자유로운 상호작용이 가능한 Gen AI 기반 스마트 스케줄링 웹 서비스, NESS
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstudio-recoding&count_bg=%237A64FF&title_bg=%23C2B9FF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
-
 <p>todomate나 구글 캘린더가 있어도 너무 바쁠 때면 일정 정리를 깜빡한 적이 있지 않나요?</p>
 <p>그 이유는 기존의 일정 관리 서비스들은 아날로그 스케줄러를 그저 디지털로 옮겨놓은 것에 불과할 뿐이고, 모든 관리는 결국 사람이 수동으로 해주어야 하기 때문입니다. 팀 Re:coding은 이러한 문제를 극복하기 위해 간편하면서도 관리 보조의 기능성을 동시에 제공해줄 수 있는 방안을 생각해보게 되었습니다. 그 결과로 나온 LLM을 통해 사용자의 의도에 맞는 프로액티브한 스케쥴링을 제공 가능한 챗봇, NESS를 소개합니다.</p>
 
