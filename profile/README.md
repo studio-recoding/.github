@@ -10,7 +10,7 @@
 
 
 ## ⚙️ Architecture
-<p>NESS의 아키텍를 한눈에 살펴봐요!</p>
+<p>NESS의 아키텍처를 한눈에 살펴봐요!</p>
 <p>NESS는 팀원들의 전문 분야에 맞게 FE/AI/BE 업무를 분할했어요. 전체 아키텍 또한 사용자와 인터렉션하는 NEXT.js 프론트엔드, 인증 및 RDB 데이터를 처리하는 Spring Boot 웹 백엔드, AI API 호출과 RAG를 담당하는 FastAPI AI 백엔드로 구성되어 있어요. 이런 기술들은 다양한 AWS 서비스와 통합되어 엔드 유저에서 전달되죠. 또한, GitHub Action과 통합되어 CI/CD를 구성했어요.</p>
 
 <img width="1920" alt="NESS 아키텍처" src="https://github.com/user-attachments/assets/1ea3eab8-4b36-4b1b-8e1c-8eda624e35be">
